@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mikro-orm/cli": "^5.0.5",
+    "@mikro-orm/core": "^5.0.5",
+    "@mikro-orm/migrations": "^5.0.5",
+    "@mikro-orm/postgresql": "^5.0.5",
+    "pg": "^8.7.3"
+  }
+}
